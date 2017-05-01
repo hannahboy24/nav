@@ -8,7 +8,11 @@
                 <div class="panel-heading">Dashboard</div>
 
                 <div class="panel-body">
+<<<<<<< HEAD
                     pakyu with feelings!
+=======
+                    You are logged in!
+>>>>>>> cbeb4d4e2eef665a9e35526580801ed38a5ab27c
                 </div>
             </div>
         </div>
